@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "ecmel.vscode-html-css",
+        "pranaygp.vscode-css-peek",
+        "ms-vscode.live-server"
+    ]
+}
